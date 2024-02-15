@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-    printf("Hello git!");
+    printf("Hello I am a programmer!");
 }
